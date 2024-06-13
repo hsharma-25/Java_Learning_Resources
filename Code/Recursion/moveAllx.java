@@ -1,3 +1,4 @@
+//MOVE ALL 'X' IN A GIVEN STRING TO THE END
 import java.util.*;
 public class moveAllx {
     public static void moveX(String str, int idx, int count, String newStr){
